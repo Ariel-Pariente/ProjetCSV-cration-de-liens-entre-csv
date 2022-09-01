@@ -6,3 +6,6 @@ Study and compare the HDI and the GDP of countries and see if there is a correla
 
 ### Problématique:
 Observons nous une corrélation entre L’IDH/le PIB et le nombre de médaille au Jeux Olympiques ?
+
+####  conclusion:
+![Schéma représentant le nombre de médaille par l’IDH](	
