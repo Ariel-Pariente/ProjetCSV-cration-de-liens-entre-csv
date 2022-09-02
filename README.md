@@ -10,12 +10,12 @@ Do we observe a correlation between the HDI/GDP and the number of medals at the 
 ##  conclusion:
 Diagram representing the number of medals by the HDI
 
-![Diagram representing the number of medals by the HDI](https://github.com/neptuniose/ProjetCSV-cration-de-liens-entre-csv/blob/main/premier%20graphe.png) 
+![Diagram representing the number of medals by the HDI](https://github.com/neptuniose/ProjetCSV-cration-de-liens-entre-csv/blob/main/image/premier%20graphe.png) 
 
 
 Diagram representing the number of medals by GDP
 
-![Diagram representing the number of medals by GDP](https://github.com/neptuniose/ProjetCSV-cration-de-liens-entre-csv/blob/main/figure%20pib.png)
+![Diagram representing the number of medals by GDP](https://github.com/neptuniose/ProjetCSV-cration-de-liens-entre-csv/blob/main/image/figure%20pib.png)
 
 **correlation between medals and GDP:**
 **0.32679682777261004**
